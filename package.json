@@ -1,5 +1,6 @@
 {
   "name": "react-native-device-clock-format",
   "version": "0.1.0",
-  "keywords": "react-native"
+  "keywords": "react-native",
+  "main": "DeviceClockFormat.ios.js"
 }
