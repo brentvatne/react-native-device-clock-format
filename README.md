@@ -23,7 +23,7 @@ var {
   TouchableOpacity,
 } = React;
 
-var { DeviceClockFormat, } = require('NativeModules');
+var DeviceClockFormat = require('react-native-device-clock-format');
 
 var SampleApp = React.createClass({
   getInitialState() {
