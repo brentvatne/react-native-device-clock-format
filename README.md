@@ -35,8 +35,8 @@ var SampleApp = React.createClass({
   },
 
   fetchTimeFormat() {
-    DeviceClockFormat.fetch((standard, military) => {
-      if (standard) {
+    DeviceClockFormat.fetch((twelveHour, twentyFourHour) => {
+      if (twelveHour) {
         this.setState({format: '12 hour'});
       } else {
         this.setState({format: '24 hour'});
