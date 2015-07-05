@@ -4,4 +4,4 @@
  */
 'use strict';
 
-module.exports = require('NativeModules').DeviceClockFormat;
+module.exports = require('react-native').NativeModules.DeviceClockFormat;
