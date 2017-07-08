@@ -1,3 +1,9 @@
+# No Maintenance Intended
+
+This project is no longer actively maintained. You probably should not use this library, it has not been tested by the author in two years and React Native has shed most of its old skin cells and become a new tool in that time. This library may not even work anymore. Unfortunately I do not know what to recommend as an alternative, if you do, please file an issue and I will update this README so people can find what they are looking for.
+
+----------------------------------------------------------------------------------------------------------------
+
 ## react-native-device-clock-format
 
 Determine whether the device is set to 12 or 24 hour time.
